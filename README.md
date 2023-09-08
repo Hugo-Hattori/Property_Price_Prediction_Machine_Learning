@@ -90,3 +90,6 @@ project will utilize the processed database for the Property Price Prediction.</
 
 <p>As shown in the images the AI Model can be used by inserting the proper information in each
 gap, and by pressing "Prever Valor do Imóvel" the predicted price will be displayed bellow.</p>
+
+<p>Note: this project has no direct relationship with Airbnb and was created for academic purposes,
+the data used was made publicly available by Airbnb.</p>
